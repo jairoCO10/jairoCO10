@@ -1,5 +1,4 @@
-### Hi there 👋
-### como estas :computer:
+### Hello 👋, I am a systems engineer passionate about technologies.  :computer:
 
 <!--
 **jairoCO10/jairoCO10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
