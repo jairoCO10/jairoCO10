@@ -90,4 +90,4 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   
 </a>
 
-([![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jairoCO10&bg_color=000000&color=9e4c98&line=dc09ce&point=d31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jairoCO10&bg_color=000000&color=9e4c98&line=dc09ce&point=d31212&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
