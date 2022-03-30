@@ -17,13 +17,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - ⚡ I’m currently studying Backend.
 
+- 📫 How to reach me **jairoco0901@gmail.com**
+- 
 - 🌱 I’m currently learning **Python, Testing, ReactJs and PostgreSQL.**
 
-- 📫 How to reach me **jairoco0901@gmail.com**
+
 
 
 <h3 align="left">Team :</h3>
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/gryffindor_badge.gif" width="100px">
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/hufflepuff_badge.gif"  width="100px">
 
 <h3 align="left">Connect with me:</h3>
 
